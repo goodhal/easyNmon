@@ -28,6 +28,12 @@ https://pan.baidu.com/s/1XCeNQPMtymlI79kgNCg1ZA
 
 
 ##
+## 扩展工具
+
+goodhal的批量部署及监控服务：https://gitee.com/goodhal/ezNmon-Manager
+
+
+##
 ## 更新日志：
 
 https://github.com/mzky/easyNmon/wiki/ChangeLog
@@ -45,7 +51,6 @@ go的web框架gin：https://github.com/gin-gonic/gin
 前端amazeui：http://amazeui.org
 
 
-
 ## 其它
 #### jmeter4.x/5.x的html报告汉化模版：
 
@@ -58,3 +63,4 @@ https://github.com/mzky/jmeter5.x-cn-report-template
 新项目将支持mysql、pgsql、tomcat、redis、Nginx等监控
 
 https://github.com/mzky/mesro
+
